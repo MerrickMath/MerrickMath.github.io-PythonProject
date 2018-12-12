@@ -5,7 +5,7 @@ This is a template that can be used for your first python program:
 * <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/Template.py"> Program Template </a> 
 
 ### Project Files
-* <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/CheatSheet.pdf"> Python Project Cheat Sheet </a> 
+* <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/CheatSheet.pdf"> Python Cheat Sheet </a> 
 * <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/ProjectStudents.pdf"> Python Project </a> 
 
 ### Project Solutions
