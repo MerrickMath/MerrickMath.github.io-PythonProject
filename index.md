@@ -6,9 +6,7 @@ Welcome to the math 10 python project. In this project you will be learning how 
 
 ### A Little Motivation
 
-  <iframe width="420" height="315"
-  src="https://www.youtube.com/watch?v=xfBWk4nw440">
-  </iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/watch?v=xfBWk4nw440" frameborder="0" allowfullscreen></iframe>
 
 ### Start Here 
 This is a template that can be used for your first python program: 
