@@ -10,6 +10,7 @@ Welcome to the math 10 python project. In this project you will be learning how 
   <iframe width="420" height="345" src="https://www.youtube.com/embed/tgbNymZ7vqY?autoplay=1"></iframe>
 </p>
 
+[![Video](http://img.youtube.com/vi/-pdYK9Xg8Jw/0.jpg)](http://www.youtube.com/watch?v=-pdYK9Xg8Jw)
 
 ### Start Here 
 This is a template that can be used for your first python program: 
