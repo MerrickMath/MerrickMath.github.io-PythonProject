@@ -15,6 +15,8 @@ Welcome to the math 10 python project. In this project you will be learning how 
 ### Start Here 
 This is a template that can be used for your first python program: 
 * <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/Template.py"> Program Template </a> 
+Program That Fnds Area Of A Square Given A Sidelength: 
+* <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/Square.py"> Program Template </a> 
 
 ### Project Files
 * <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/CheatSheet.pdf"> Python Cheat Sheet </a> 
