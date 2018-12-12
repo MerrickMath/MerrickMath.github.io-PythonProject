@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img  width="200" height="20" src="https://mrfanning.github.io/MrFanning.github.io-PythonProject/PythonL.png">  
+  <img  width="200" height="40" src="https://mrfanning.github.io/MrFanning.github.io-PythonProject/PythonL.png">  
 </p>
 
 
