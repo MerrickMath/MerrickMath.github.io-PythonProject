@@ -7,7 +7,7 @@ Welcome to the math 10 python project. In this project you will be learning how 
 ### A Little Motivation
 
 <p align="center"> 
-  [![Video](http://img.youtube.com/vi/-pdYK9Xg8Jw/0.jpg)](http://www.youtube.com/watch?v=-pdYK9Xg8Jw)
+  [![Video](http://img.youtube.com/vi/-pdYK9Xg8Jw/0.jpg)](https://www.youtube.com/watch?v=xfBWk4nw440)
 </p>
 
 
