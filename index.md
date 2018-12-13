@@ -17,7 +17,7 @@ This is a template that can be used for your first python program:
 * <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/Template.py"> Program Template </a> <br/>
 
 Program That Fnds Area Of A Square Given A Sidelength: 
-* <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/Square.py"> Program Template </a> 
+* <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/Square.py"> Area Program </a> 
 
 ### Project Files
 * <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/CheatSheet.pdf"> Python Cheat Sheet </a> 
