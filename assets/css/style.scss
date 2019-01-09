@@ -13,6 +13,17 @@
    border:1px solid #3E3A9E;
 }
 
+.frame {
+  display: block;
+  width: 100vw;
+  height: 100vh;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  border: 0 none;
+  box-sizing: border-box;
+}
+
 $header-bg-color: #514a9d;
 $header-bg-color-secondary: #24c6dc;
 $section-headings-color: #514a9d;
