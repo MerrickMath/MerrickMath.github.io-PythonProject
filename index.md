@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="https://mrfanning.github.io/MrFanning.github.io-PythonProject/PythonL.png">  
+  <img src="https://MerrickMath.github.io/MrFanning.github.io-PythonProject/PythonL.png">  
 </p>
 
 
@@ -14,14 +14,14 @@ Welcome to the math 10 python project. In this project you will be learning how 
 
 ### Start Here 
 This is a template that can be used for your first python program: 
-* <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/Template.py"> Program Template </a> <br/>
+* <a href="https://mrfanning.github.io/MerrickMath.github.io-PythonProject/Template.py"> Program Template </a> <br/>
 
 Program That Fnds Area Of A Square Given A Sidelength: 
-* <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/Square.py"> Area Program </a> 
+* <a href="https://mrfanning.github.io/MerrickMath.github.io-PythonProject/Square.py"> Area Program </a> 
 
 ### Project Files
-* <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/CheatSheet.pdf"> Python Cheat Sheet </a> 
-* <a href="https://mrfanning.github.io/MrFanning.github.io-PythonProject/ProjectStudents.pdf"> Python Project </a> 
+* <a href="https://mrfanning.github.io/MerrickMath.github.io-PythonProject/CheatSheet.pdf"> Python Cheat Sheet </a> 
+* <a href="https://mrfanning.github.io/MerrickMath.github.io-PythonProject/ProjectStudents.pdf"> Python Project </a> 
 
 ### Project Solutions
 Solutions files will be uploaded after all projects are submitted. 
